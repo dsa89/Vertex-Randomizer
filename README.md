@@ -25,4 +25,4 @@ In both cases, the mean number is found in minimum and maximum values as defined
 
 ** KNOWN ISSUES **
 
-Addon will not initiate without a present shape key. Please do not report it as the addon needs shape keys to function
+Addon will not initiate without a present shape key. Please do not report it as the addon needs shape keys to function.
